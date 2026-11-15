@@ -1,0 +1,11 @@
+Main Objective : 
+
+Learn to make an existing website work on phones, tablets and laptops.
+
+What You Will Implement : 
+
+Take one earlier project (Assignment 6 or 7):
+
+-> Add at least two breakpoints (for example 768px and 480px) using @media queries.
+-> Test on at least 3 screen sizes using browser DevTools (mobile, tablet, desktop).
+-> Audit and fix problems: text too small, images overflowing, horizontal scrolling, buttons too close.
