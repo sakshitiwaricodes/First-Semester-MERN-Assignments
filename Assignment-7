@@ -1,0 +1,13 @@
+Main Objective
+
+Learn two-dimensional layouts using CSS Grid.
+
+What You Will Implement
+
+Make three small pages:
+
+-> gallery.html: a photo gallery with at least 9 images using display: grid.
+-> product-grid.html: a grid that reflows automatically using repeat(auto-fit, minmax(200px, 1fr)).
+-> dashboard.html: a dashboard layout (header, sidebar, main, footer) using named grid areas (grid-template-areas).
+
+Use: grid-template-columns, gap, grid-area, fr units.
