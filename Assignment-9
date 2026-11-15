@@ -1,0 +1,17 @@
+Main Objective : 
+
+Bring everything together. Build a fully responsive landing page using both Grid and Flexbox in the right places.
+
+What You Will Implement : 
+
+Choose a reference landing page and recreate it.
+
+Phase 1 : HTML skeleton + base desktop styles. This must be a commit in your history.
+
+Phase 2 (final):
+
+-> Flexbox for: navbar, buttons, card content, footer links.
+-> Grid for: page layout, services/features area, gallery.
+-> Responsive: at least 2 breakpoints (tablet and mobile).
+-> Semantic HTML, CSS variables, meaningful alt text, meta tags.
+-> A hamburger or stacked menu on mobile (a simple stacked version is fine).
